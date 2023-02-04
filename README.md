@@ -1,10 +1,10 @@
-# Wine-Quality-Prediction
+## ***WINE QUALITY PREDICTION***
 
-# ***DATASET DESCRIPTION***
+#### ***DATASET DESCRIPTION***
 
 ***The dataset for this competition (both train and test) was generated from a deep learning model trained on the Wine Quality dataset. Feature distributions are close to, but not exactly the same, as the original.***
 
-# ***ATTRIBUTE DESCRIPTION***
+#### ***ATTRIBUTE DESCRIPTION***
 
 ***fixed acidity : Primary fixed acids found in wine are tartaric, succinic, citric, and malic.***
 
